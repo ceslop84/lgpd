@@ -1,23 +1,25 @@
-# Angular specific
-/dist/
-/out-tsc/
-/tmp/
-/coverage/
-/e2e/test-output/
-/.angular/
-.angular/
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
 
-# Node modules and dependency files
-/node_modules/
-/package-lock.json
-/yarn.lock
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (se usar)
+node_modules/
+npm-debug.log
 
 # Environment files
-/.env
-
-# Angular CLI and build artefacts
-/.angular-cli.json
-/.ng/
+.env
 
 # TypeScript cache
 *.tsbuildinfo

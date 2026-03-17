@@ -1,0 +1,29 @@
+# Jekyll Configuration for GitHub Pages
+title: LGPD - Lei Geral de Proteção de Dados
+description: "Um guia prático e acessível sobre seus direitos digitais"
+author: "Cesar Rafael Lopes"
+email: "ceslop84@gmail.com"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Locale
+locale: pt-BR
+
+# URL for GitHub Pages
+# url: "https://seu-usuario.github.io/lgpd"
+# baseurl: "/lgpd"
+
+# Navigation
+header_pages:
+  - pages/index.md
+  - pages/o-que-e-lgpd.md
+  - pages/direitos.md
+  - pages/faq.md
+  - pages/contato.md
