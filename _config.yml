@@ -17,8 +17,8 @@ plugins:
 locale: pt-BR
 
 # URL for GitHub Pages
-# url: "https://seu-usuario.github.io/lgpd"
-# baseurl: "/lgpd"
+url: "https://ceslop84.github.io/lgpd"
+baseurl: "/lgpd"
 
 # Navigation
 header_pages:
